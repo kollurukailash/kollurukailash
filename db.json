@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posts": 
     {
     "id": "10",
     "environment": "env",
@@ -11,8 +11,7 @@
     "memory": "",
     "initial_delay": "",
     "overwrite": false
-  }
-  ],
+    },
   "profile": {
     "name": "typicode"
   }
