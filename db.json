@@ -1,5 +1,7 @@
 {
-  "posts": 12,
+  "posts": {
+    "id" : 12
+  },
   "profile": {
     "name": "typicode"
   }
