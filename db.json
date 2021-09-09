@@ -2,7 +2,7 @@
   "posts": {
     "id" : 12
   },
-  "get": 10,
+  "get": {"i":10},
   "profile": {
     "name": "typicode"
   }
